@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OyunlarWebForms", "OyunlarWebForms\OyunlarWebForms.csproj", "{7511212E-F99E-437A-BC60-2936FD9E37AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OyunlarWinForms", "OyunlarWinForms\OyunlarWinForms.csproj", "{E144B4EF-F0F6-4522-88C6-6EA78FE5F359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7511212E-F99E-437A-BC60-2936FD9E37AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7511212E-F99E-437A-BC60-2936FD9E37AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7511212E-F99E-437A-BC60-2936FD9E37AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7511212E-F99E-437A-BC60-2936FD9E37AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E144B4EF-F0F6-4522-88C6-6EA78FE5F359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E144B4EF-F0F6-4522-88C6-6EA78FE5F359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E144B4EF-F0F6-4522-88C6-6EA78FE5F359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E144B4EF-F0F6-4522-88C6-6EA78FE5F359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA00E14F-6264-4B01-86DE-EB93B98554ED}
+	EndGlobalSection
+EndGlobal
